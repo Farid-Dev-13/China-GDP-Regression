@@ -32,9 +32,10 @@ The dataset was obtained from Jadi's Machine Learning with Python course.
 
 ## Project Structure
 
-- `china_gdp_prediction.ipynb`: Main project notebook
+- `China_GDP_Regression.ipynb`: Main project notebook
 - `china_gdp.csv`: Dataset
 - `requirements.txt`: Required Python libraries
+- `.gitignore`: Files and folders excluded from version control
 
 ## Note
 
